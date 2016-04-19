@@ -1,0 +1,4 @@
+autopep8==1.2.2
+oauthlib==1.0.3
+requests==2.2.1
+requests-oauthlib==0.6.1

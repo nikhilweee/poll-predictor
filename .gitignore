@@ -1,0 +1,7 @@
+/__pycache__/*
+/cnn/word2vec.bin
+/cnn/tweet.neg
+/cnn/tweet.pos
+/cnn/small.neg
+/cnn/small.pos
+/cnn/train.p

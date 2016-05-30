@@ -5,3 +5,4 @@
 /cnn/small.neg
 /cnn/small.pos
 /cnn/train.p
+/credentials.py
